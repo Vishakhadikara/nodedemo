@@ -1,0 +1,22 @@
+{
+  "name": "nodedemo",
+  "version": "1.0.0",
+  "description": "node demo test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vishakhadikara/nodedemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vishakhadikara/nodedemo/issues"
+  },
+  "homepage": "https://github.com/Vishakhadikara/nodedemo#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
